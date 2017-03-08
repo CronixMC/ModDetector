@@ -1,0 +1,12 @@
+Reach
+Triggerbot
+AimAssist
+.slick.
+.darkstormapi.
+.combat
+Autoclicker
+Auto-clicker
+velocity
+wtap
+strafe
+hitbox
